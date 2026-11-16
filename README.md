@@ -28,7 +28,7 @@ O objetivo é incentivar hábitos de estudo mais produtivos e facilitar o acesso
 
 ## Acesse o projeto
 
-https://resplendent-dieffenbachia-26bd4e.netlify.app/
+https://metodosrsouza.netlify.app/
 
 ## Desenvolvedor
 
